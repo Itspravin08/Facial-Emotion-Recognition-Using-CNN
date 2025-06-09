@@ -1,6 +1,6 @@
 # Emotion_detection_with_CNN
 
-![emotion_detection](https://github.com/Itspravin08/Emotion_detection_Using_CNN/blob/main/Emotions.png)
+![emotion_detection](https://github.com/Itspravin08/Facial-Emotion-Recognition-Using-CNN/blob/main/Emotions.png)
 
 ### Packages need to be installed
 - pip install numpy
